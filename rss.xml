@@ -8,6 +8,13 @@
         <language>en-us</language>
         <item>
                 <title>New Page!</title>
+                <link>http://mymoomin.github.io/rss/entry7</link>
+                <guid>http://mymoomin.github.io/rss/entry8</guid>
+                <description>Second IFTTT update!</description>
+                <pubDate>Mon, 27 May 2019 14:02:30 -0400</pubDate>
+        </item>
+        <item>
+                <title>New Page!</title>
                 <link>http://mymoomin.github.io/rss/entry6</link>
                 <guid>http://mymoomin.github.io/rss/entry7</guid>
                 <description>Second IFTTT update!</description>
