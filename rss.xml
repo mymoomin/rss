@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>RSS Testing Website</title>
@@ -6,6 +6,13 @@
         <link>http://www.sleeplessdomain.com/</link>
         <description>Test RSS feed</description>
         <language>en-us</language>
+        <item>
+                <title>New Page!</title>
+                <link>http://mymoomin.github.io/rss/entry5</link>
+                <guid>http://mymoomin.github.io/rss/entry6</guid>
+                <description>First IFTTT update!</description>
+                <pubDate>Mon, 27 Apr 2019 09:41:30 -0400</pubDate>
+        </item>
         <item>
                 <title>First page!</title>
                 <link>http://mymoomin.github.io/rss/entry2</link>
